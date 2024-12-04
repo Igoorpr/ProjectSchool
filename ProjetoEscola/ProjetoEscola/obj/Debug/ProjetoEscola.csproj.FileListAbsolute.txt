@@ -1,0 +1,36 @@
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe.config
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.pdb
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.AssemblyReference.cache
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmAtualizarNota.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmCadastrar.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmEmitirCertificado.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmGerenciar.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmGerenciarAlunos.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmIncluirAluno.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmIncluirCurso.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.FmPrincipal.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmGerenciarCursos.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Properties.Resources.resources
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.GenerateResource.cache
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.CoreCompileInputs.cache
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.exe
+C:\Users\IPR\Desktop\Projeto CMU Energia\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.pdb
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe.config
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.exe
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\bin\Debug\ProjetoEscola.pdb
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.AssemblyReference.cache
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmAtualizarNota.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmCadastrar.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmEmitirCertificado.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmGerenciar.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmGerenciarAlunos.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmIncluirAluno.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmIncluirCurso.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.FmPrincipal.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Forms.FmGerenciarCursos.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.Properties.Resources.resources
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.GenerateResource.cache
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.csproj.CoreCompileInputs.cache
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.exe
+C:\Users\IPR\Desktop\ProjectSchool\ProjetoEscola\ProjetoEscola\obj\Debug\ProjetoEscola.pdb
